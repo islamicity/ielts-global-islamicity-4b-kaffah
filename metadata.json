@@ -1,0 +1,6 @@
+{
+  "name": "Global Islamicity 4B Kaffah in IELTS",
+  "description": "Comprehensive platform integrating 4B Kaffah (Berdakwah, Bersyariah, Berjamaah, Bermuamalah) with IELTS Academic & General Training preparation, authentic source materials, cross-cultural dialogue, E2EE privacy, smart cloud sync, and gamified progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
